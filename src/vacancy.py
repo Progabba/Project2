@@ -13,7 +13,7 @@ class Vacancy:
 
     def __eq__(self, other):
         return self._get_salary_value() == other._get_salary_value()
-
+#f
     def _get_salary_value(self) -> int:
         if self.salary == "Зарплата не указана":
             return 0
