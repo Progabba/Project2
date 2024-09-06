@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Job 1",
+        "url": "http://example.com",
+        "salary_from": 1000,
+        "salary_to": 2000,
+        "description": "Python Developer"
+    }
+]
